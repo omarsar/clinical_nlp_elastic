@@ -40,11 +40,12 @@ The full presentation slides accomponying this project can be found [here](https
 
 ### Project Status
 - Phase 1 - Proposal of indexing, feature engineering, and analytics (read more)
-- Phase 2 - Coming soon!
+- Phase 2 (Coming soon!) - More details on project, data, research, etc. 
 
 ### Future Ideas
 - General NLP pipeline for mental disorder analysis and text analytics
 - Integrate logstash for gathering, processing, and indexing more cases
+- Build a machine learning or deep learning dedicated API to automatically perform prediction of new mental disorder cases
 
 ### Contact Information
 - [Elvis Saravia](https://twitter.com/omarsar0)
